@@ -9,4 +9,6 @@ class Song
   end
   
   self.count
+    @@count
+  end
 end
