@@ -33,8 +33,7 @@ class Song
         else
           @@genre[genre]+=1
         end
-          
-          
     end
+    @@genre
   end
 end
